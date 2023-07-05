@@ -5,7 +5,7 @@
 
 - ✈ I'm Aeronautical Engineering student at University of São Paulo
 
-- 🔭 I’m currently working as **blockchain developer** at Grupo GCB
+- 👨‍💻 I’m currently working as **blockchain developer** at Grupo GCB developing tokenized assets for the financial market.
 
 - 📊 In addition to studying blockchain development, I am also very interested in economics and **technologies applied to the financial market**.
 
